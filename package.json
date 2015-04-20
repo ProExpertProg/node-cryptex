@@ -1,6 +1,6 @@
 {
   "name": "node-cryptex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "string data encryption/decryption for node.js & io.js",
   "main": "index.js",
   "directories": {
