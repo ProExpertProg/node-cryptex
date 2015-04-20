@@ -4,7 +4,7 @@
 
 ## String data encryption/decryption for node.js & io.js
 
-This is a module for helping you **encrypting/decrypting** string data inside **node.js & io.js** applications, so for example in a **MEAN application** you could use this module to store only encrypted versions of your individual entity fields inside your DB and decrypt them when only when needed for display in the views.
+This is a module for helping you **encrypting/decrypting** string data inside **node.js & io.js** applications, so for example in a **MEAN application** you could use this module to store only encrypted versions of your individual entity fields inside your DB and decrypt them only when needed for display in the views.
 
 ### Usage
 
